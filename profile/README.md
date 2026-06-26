@@ -1,5 +1,7 @@
 <h1>Cliptag</h1>
 
+- [License](./LICENSE)
+
 > <a href="https://cliptag.app" target="_blank">Track every goal, every play, and every win.</a>
 
 Cliptag is a platform for tracking, analyzing, and improving athlete performance through video review, statistical analysis, and artificial intelligence.
@@ -47,7 +49,7 @@ The primary fullstack web application and platform interface.
 
 ---
 
-## Cliptag AI `cliptag.ai`
+## Cliptag AI `cliptag-ai`
 
 The machine learning and computer vision platform powering automated analysis.
 
