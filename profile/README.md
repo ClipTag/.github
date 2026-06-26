@@ -1,10 +1,10 @@
-# Cliptag
+<h1>Cliptag</h1>
 
-> Track every goal, every play, and every win.
+> <a href="https://cliptag.app" target="_blank">Track every goal, every play, and every win.</a>
 
 Cliptag is a platform for tracking, analyzing, and improving athlete performance through video review, statistical analysis, and artificial intelligence.
 
-Our mission is to make advanced performance analytics accessible to athletes, parents, coaches, and teams by combining modern software with machine learning and computer vision.
+Currently, video review and statistical analysis is entirely manual. However, our mission is to make advanced performance analytics accessible to athletes, parents, coaches, and teams by combining modern software with machine learning and computer vision.
 
 ---
 
@@ -18,9 +18,9 @@ By combining traditional performance tracking with artificial intelligence, the 
 
 # Repositories
 
-## Cliptag Tracker
+## Cliptag Tracker `cliptag-app`
 
-The primary web application and platform interface.
+The primary fullstack web application and platform interface.
 
 ### Current Features
 
@@ -47,7 +47,7 @@ The primary web application and platform interface.
 
 ---
 
-## Cliptag AI
+## Cliptag AI `cliptag.ai`
 
 The machine learning and computer vision platform powering automated analysis.
 
@@ -205,7 +205,6 @@ Examples:
 - Development recommendations
 - AI-generated player summaries
 - Enhanced analytics dashboards
-- Multi-sport support
 
 ---
 
@@ -247,7 +246,7 @@ Provide:
 
 # Roadmap
 
-## Phase 1 — Foundation (Complete)
+## Phase 1: Foundation (Complete)
 
 - Authentication
 - Organizations
@@ -257,21 +256,21 @@ Provide:
 - Clips
 - Tags
 
-## Phase 2 — Analytics (Current Phase)
+## Phase 2: Analytics (Current Phase)
 
 - Advanced dashboards
 - Statistical reporting
 - Trend analysis
 - Performance visualizations
 
-## Phase 3 — AI Integration
+## Phase 3: AI Integration
 
 - Automated tagging
 - Event detection
 - Video analysis
 - AI-generated reports
 
-## Phase 4 — Intelligent Coaching Tools
+## Phase 4: Intelligent Coaching Tools
 
 - Development recommendations
 - Skill analysis
